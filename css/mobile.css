@@ -12,6 +12,9 @@
   border-bottom: #444 dotted 1px;
 }
 /* Showcase */
+#showcase {
+  height: 100%;
+}
 #showcase .showcase-contant {
   padding-top: 70px;
   padding-bottom: 30px;
@@ -19,7 +22,7 @@
 
 /* Home Info */
 #home-info {
-  height: auto;
+  height: 550px;
 }
 #home-info .info-img {
   display: none;
@@ -28,6 +31,7 @@
   float: none;
   width: 100%;
 }
+/* Boxes */
 .box {
   float: none;
   width: 100%;
@@ -37,9 +41,9 @@
   float: none;
   width: 100%;
 }
-#about-info .info-right img {
+/* #about-info .info-right img {
   width: 100%;
-}
+} */
 .l-heading {
   text-align: center;
 }
@@ -52,5 +56,4 @@
 }
 #testimonials {
   height: auto;
-  padding-top: 30px;
 }
